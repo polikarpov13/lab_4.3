@@ -1,0 +1,7 @@
+﻿  Array.cpp
+  Fraction.cpp
+  Hex.cpp
+  lab_4.3.cpp
+  Создание кода...
+E:\Політех\ооп\4\lab_4.3\lab_4.3\Fraction.cpp(161): warning C4715: operator>: значение возвращается не при всех путях выполнения
+  lab_4.3.vcxproj -> E:\Політех\ооп\4\lab_4.3\x64\Debug\lab_4.3.exe
